@@ -1,9 +1,9 @@
 const request = require('request');
 
 //先設定CLIENT和URL
-const CLIENT_ID = 'r9cyoi2xa9i8e2appy2w8ziv3y1u0e';
+const CLIENT_ID = '###';
 const BASE_URL = 'https://api.twitch.tv/helix';
-const Author = 'Bearer 1k9dxcambuulhmrsg4msox871mct5f';
+const Author = '##';
 
 //在request裡上面放headers，用於給twitch認證
 request.get({
